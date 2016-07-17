@@ -1,0 +1,20 @@
+{
+  "name": "blondiebits",
+  "version": "1.0.0",
+  "private": false,
+  "author": "kathryn-hodge",
+  "devDependencies": {},
+  "engines": {
+    "node": "5.1.0",
+    "npm": "3.4.1"
+  },
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}
